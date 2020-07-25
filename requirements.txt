@@ -1,0 +1,8 @@
+jupyter-book
+openpyxl
+pandas
+matplotlib
+numpy
+scipy
+requests
+
