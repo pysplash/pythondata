@@ -1,9 +1,0 @@
-file: intro
-sections:
-- file: content
-- file: dedication
-- file: authors_note
-- file: about_this_book
-- file: 01_why
-- file: 02_how
-- file: notebooks

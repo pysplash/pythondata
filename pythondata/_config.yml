@@ -1,8 +1,0 @@
-# Book settings
-title: Python Data Explorations
-author: Carol Willing, Surf Grass Press
-logo: logo.png
-
-latex:
-  latex_documents:
-    targetname: pythondata.tex
