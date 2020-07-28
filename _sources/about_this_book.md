@@ -1,6 +1,6 @@
 # About This Book
 
-## Code
+## Structure
 
 ## Jupyter Notebooks
 

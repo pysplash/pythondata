@@ -1,4 +1,4 @@
 # Author's Note
 
-## Learn, Build, Share –– Openly
+Learn, Build, Share –– Openly
 

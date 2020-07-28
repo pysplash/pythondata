@@ -1,5 +1,12 @@
-Content in Python Data Explorations
-===================================
+Contents
+========
 
-There are many ways to write content in Jupyter Book. This short section
-covers a few tips for how to do so.
+- Part 1
+- Part 2
+- Part 3
+- Part 4
+- Part 5
+- Part 6
+- Part 7
+- Appendices
+- Index
