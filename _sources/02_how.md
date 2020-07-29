@@ -1,4 +1,4 @@
-# Lesson 2: How
+# Session 2: How
 
 ## Begin Anywhere
 

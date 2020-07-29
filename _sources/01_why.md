@@ -1,4 +1,4 @@
-# Lesson 1: Why
+# Session 1: Why
 
 ## Motivation Depends on Why
 
