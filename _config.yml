@@ -1,7 +1,7 @@
 # Book settings
 title: Python Data Explorations
 author: Carol Willing, Surf Grass Press
-logo: color_logo_transparent.png
+logo: color_logo_transparent.svg
 
 latex:
   latex_documents:
