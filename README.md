@@ -11,3 +11,7 @@ The process of practice and incremental steps that I went through to learn
 guitar parallels the process of learning and applying a programming language.
 [Inspiration from The Musician's Way](https://www.musiciansway.com/blog/2020/04/making-meaning-in-music-practice/)
 
+
+## Deployment of book
+
+`ghp-import -n -c surfgrasspress.com .`
