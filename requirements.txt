@@ -6,3 +6,4 @@ numpy
 scipy
 requests
 ghp-import
+xlsxwriter
