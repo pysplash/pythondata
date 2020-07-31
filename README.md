@@ -1,6 +1,7 @@
 # pythondata
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pysplash/pythondata/main)
+![deploy-book](https://github.com/pysplash/pythondata/workflows/deploy-book/badge.svg)
 
 A collection of learning materials for getting started with Python and Data
 
