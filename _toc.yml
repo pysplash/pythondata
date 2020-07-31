@@ -6,5 +6,6 @@ sections:
 - file: about_this_book
 - file: 01_why
 - file: 02_how
+- file: notebook_excel
 - file: notebooks
 - file: README
