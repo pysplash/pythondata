@@ -1,10 +1,10 @@
 # Session 3: Oldies
 
-## San Diego 2014
+## San Diego 2014 - Intro to Python
 
-https://github.com/pythonsd/intro-to-python
+[https://github.com/pythonsd/intro-to-python](https://github.com/pythonsd/intro-to-python)
 
-Let's use https://mybinder.org
+Let's use [https://mybinder.org](https://mybinder.org)
 
 Binder gives you a temporary workspace with notebooks.
 
