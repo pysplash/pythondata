@@ -7,6 +7,7 @@ sections:
 - file: 01_why
 - file: 02_how
 - file: 03_oldies
+- file: 04_tools_productivity
 - file: notebook_excel
 - file: notebooks
 - file: README
